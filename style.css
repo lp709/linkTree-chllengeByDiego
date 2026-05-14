@@ -1,0 +1,85 @@
+body {
+    background-image: url("img/realFundo.jpg");
+    background-size: cover;
+    color: white;
+}
+
+
+.DIVmain2 {
+    border: 1px solid white;
+    width: 300px;
+    height: 600px;
+    margin: 150px auto;
+    padding: 20px;
+    border-radius: 10px;
+    width: 350px;
+}
+
+
+
+img {
+    margin: 20px auto;
+    display: block;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+p {
+    text-align: center;
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+
+
+a {
+    display: block;
+    text-align: center;
+    margin: 30px;
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+
+a:hover {
+    /* opacity: 0.9;
+    transition: opacity 0.4s ease;*/
+    transform: scale(1.03);
+    filter: brightness(0.85);
+    text-decoration: underline;
+}
+
+
+.insta {
+    background: linear-gradient(45deg,
+            #feda75,
+            #fa7e1e,
+            #d62976,
+            #962fbf,
+            #4f5bd5);
+}
+
+.class {
+    background: linear-gradient(to right, #0f9d58, #34a853);
+}
+
+
+
+.chat {
+    background: linear-gradient(135deg,
+            #0f172a,
+            #0b3b2e,
+            #10a37f);
+}
