@@ -7,12 +7,11 @@ body {
 
 .DIVmain2 {
     border: 1px solid white;
-    width: 300px;
-    height: 600px;
-    margin: 150px auto;
+    margin: 0px auto 0px auto;
     padding: 20px;
     border-radius: 10px;
     width: 350px;
+    padding-bottom: 20px;
 }
 
 
@@ -23,6 +22,7 @@ img {
     border-radius: 50%;
     width: 150px;
     height: 150px;
+    border: 3px solid blue;
 }
 
 
